@@ -1,0 +1,5 @@
+{
+  "name": "Customer Banking Application",
+  "description": "A next-generation banking portal featuring multi-factor authentication, comprehensive account management, instant payments, investment tracking, and AI-powered support.",
+  "requestFramePermissions": []
+}
